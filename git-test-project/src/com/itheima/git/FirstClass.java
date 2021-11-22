@@ -17,4 +17,10 @@ public class FirstClass {
         i += 10;
         System.out.println(i);
     }
+
+    public void test2() {
+        int i = 20;
+        i += 20;
+        System.out.println(i);
+    }
 }
