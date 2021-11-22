@@ -21,6 +21,10 @@ public class FirstClass {
     public void test2() {
         int i = 20;
         i += 20;
+    }
+    public void test3() {
+        int i = 0;
+        i += 30;
         System.out.println(i);
     }
 }
